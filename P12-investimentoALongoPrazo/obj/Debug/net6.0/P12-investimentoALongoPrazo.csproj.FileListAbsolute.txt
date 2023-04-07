@@ -1,0 +1,15 @@
+C:\Users\grazi\Downloads\Aprendendo C#\AprendendoCsharp\P12-investimentoALongoPrazo\obj\Debug\net6.0\P12-investimentoALongoPrazo.csproj.AssemblyReference.cache
+C:\Users\grazi\Downloads\Aprendendo C#\AprendendoCsharp\P12-investimentoALongoPrazo\obj\Debug\net6.0\P12-investimentoALongoPrazo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grazi\Downloads\Aprendendo C#\AprendendoCsharp\P12-investimentoALongoPrazo\obj\Debug\net6.0\P12-investimentoALongoPrazo.AssemblyInfoInputs.cache
+C:\Users\grazi\Downloads\Aprendendo C#\AprendendoCsharp\P12-investimentoALongoPrazo\obj\Debug\net6.0\P12-investimentoALongoPrazo.AssemblyInfo.cs
+C:\Users\grazi\Downloads\Aprendendo C#\AprendendoCsharp\P12-investimentoALongoPrazo\obj\Debug\net6.0\P12-investimentoALongoPrazo.csproj.CoreCompileInputs.cache
+C:\Users\grazi\Downloads\Aprendendo C#\AprendendoCsharp\P12-investimentoALongoPrazo\bin\Debug\net6.0\P12-investimentoALongoPrazo.exe
+C:\Users\grazi\Downloads\Aprendendo C#\AprendendoCsharp\P12-investimentoALongoPrazo\bin\Debug\net6.0\P12-investimentoALongoPrazo.deps.json
+C:\Users\grazi\Downloads\Aprendendo C#\AprendendoCsharp\P12-investimentoALongoPrazo\bin\Debug\net6.0\P12-investimentoALongoPrazo.runtimeconfig.json
+C:\Users\grazi\Downloads\Aprendendo C#\AprendendoCsharp\P12-investimentoALongoPrazo\bin\Debug\net6.0\P12-investimentoALongoPrazo.dll
+C:\Users\grazi\Downloads\Aprendendo C#\AprendendoCsharp\P12-investimentoALongoPrazo\bin\Debug\net6.0\P12-investimentoALongoPrazo.pdb
+C:\Users\grazi\Downloads\Aprendendo C#\AprendendoCsharp\P12-investimentoALongoPrazo\obj\Debug\net6.0\P12-investimentoALongoPrazo.dll
+C:\Users\grazi\Downloads\Aprendendo C#\AprendendoCsharp\P12-investimentoALongoPrazo\obj\Debug\net6.0\refint\P12-investimentoALongoPrazo.dll
+C:\Users\grazi\Downloads\Aprendendo C#\AprendendoCsharp\P12-investimentoALongoPrazo\obj\Debug\net6.0\P12-investimentoALongoPrazo.pdb
+C:\Users\grazi\Downloads\Aprendendo C#\AprendendoCsharp\P12-investimentoALongoPrazo\obj\Debug\net6.0\P12-investimentoALongoPrazo.genruntimeconfig.cache
+C:\Users\grazi\Downloads\Aprendendo C#\AprendendoCsharp\P12-investimentoALongoPrazo\obj\Debug\net6.0\ref\P12-investimentoALongoPrazo.dll
